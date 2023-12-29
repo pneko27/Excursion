@@ -28,4 +28,9 @@ body {
     color: aquamarine;
 }
 
-
+/* FOOTER */
+.footer--compyright {
+    font-size: 12px;
+    color: gray;
+    text-align: right;
+}
